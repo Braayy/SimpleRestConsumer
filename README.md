@@ -1,6 +1,9 @@
 # Simple Rest Consumer
 A simple rest consumer for java
 
+## Dependencies
+[Gson](https://github.com/google/gson)
+
 ## Usage
 ```java
 // Initializate the consumer, put the base url on the parameter.
